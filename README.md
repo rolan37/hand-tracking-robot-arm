@@ -11,6 +11,10 @@ over USB to an Arduino Uno, which drives the servos.
 | moves closer / further from the camera | **elbow** (reach servo) reaches out or pulls back |
 | pinches thumb and index finger together | **claw** closes (spread them to open) |
 
+> **New to robotics?** Start with the step-by-step
+> [beginner guide](GUIDE-FOR-HOORIYYA.md): setup, wiring, testing, and a
+> ready-made classroom lesson.
+
 Built for the common 3D-printed 4-DOF desktop arm with four **SG90** micro
 servos (base, two side servos on a linkage, claw), but any 4-servo arm works
 once you set its limits.
